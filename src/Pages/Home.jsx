@@ -126,7 +126,7 @@ function Home() {
   </div>
      </section>
      {/* Footer section  */}
-     <section className="flex flex-col items-center justify-between p-4 bg-gray-300 ">
+     <section className="flex flex-col items-center justify-between p-4 bg-gray-400 ">
       <div className="flex items-center justify-center gap-1 flex-grow">
        {
         socialIcons.map((icon) =>(
