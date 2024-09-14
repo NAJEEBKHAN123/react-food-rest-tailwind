@@ -124,7 +124,7 @@ function Home() {
       <MenuCard key={item.id} name={item.name} price={item.price} descripton={item.desc} image={item.imgUrl} />
     ))}
   </div>
-</section>
+     </section>
      {/* Footer section  */}
      <section className="flex flex-col items-center justify-between p-4 bg-gray-300 ">
       <div className="flex items-center justify-center gap-1 flex-grow">
