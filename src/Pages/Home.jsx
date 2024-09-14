@@ -135,7 +135,7 @@ function Home() {
       }
       </div>
      <div>
-     <p>All right reserved. Design by <span className="text-red-600">Najeeb Khan</span></p>
+     <p>All rights reserved. Designed by <span className="text-red-600">Najeeb Khan</span></p>
      </div>
      </section>
     </div>
